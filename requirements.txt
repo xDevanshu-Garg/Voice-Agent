@@ -1,0 +1,6 @@
+# LiveKit Agents SDK + plugins
+livekit-agents[silero,turn-detector]~=1.4
+livekit-plugins-deepgram~=1.0
+
+# Environment variable loader
+python-dotenv
