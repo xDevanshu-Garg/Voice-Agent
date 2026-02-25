@@ -10,6 +10,10 @@ Real-time voice agent built with [LiveKit](https://livekit.io/). Joins a LiveKit
 - **No overlap** — Silero VAD ensures the agent stays silent while the user talks. If interrupted mid-response, it stops immediately.
 - **Silence handling** — after 20 seconds of no speech, the agent plays a one-time reminder ("Are you still there?"). Doesn't loop.
 
+## Demo
+
+[Watch the demo video](https://youtu.be/wSKl3BbwLvc)
+
 ## Setup
 
 **Requirements:** Python 3.10+
